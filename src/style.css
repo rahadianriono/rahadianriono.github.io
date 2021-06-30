@@ -4,7 +4,7 @@ body {
 .jumbotron {
   padding-top: 2rem;
   background-color: #cfd4d3;
-  background-image: url(img/nikolay-tarashchenko-vPgc_bIlX4I-unsplash.jpg);
+  background-image: url(../img/nikolay-tarashchenko-vPgc_bIlX4I-unsplash.jpg);
   position: relative;
   width: 100%;
   min-height: 660px;
